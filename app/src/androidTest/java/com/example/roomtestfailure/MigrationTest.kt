@@ -8,7 +8,6 @@ import androidx.test.core.app.ApplicationProvider
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
 import com.example.roomtestfailure.room.ExampleDatabase
-import com.example.roomtestfailure.room.UserDao
 import org.junit.Before
 import org.junit.Rule
 import org.junit.Test
